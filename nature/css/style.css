@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    width: 100%;
+    height: 93vh;
+}
+.heading h3{
+    text-align: center;
+    margin: 10px -13px;
+    padding-bottom: -15px;
+    padding-top: 26px;
+    font-family: 'Chilanka', cursive;
+    font-weight: 1100px;
+}
+.container img{
+    width:85%;
+    height: 42vh;
+    margin-left: 20px;
+}
+.services h3{
+    text-align: center;
+    margin: 10px -13px;
+    padding-bottom: -15px;
+    padding-top: 26px;
+    font-family: 'Chilanka', cursive;
+    font-weight: 1100px;
+}
+.ser img{
+    padding: 0px 0px;
+    margin: 0px 0px;
+    width: 100%;
+    height: 100%;
+}
+.GALLERY h3{
+    text-align: center;
+    margin: 10px -13px;
+    padding-bottom: -15px;
+    padding-top: 26px;
+    font-family: 'Chilanka', cursive;
+    font-weight: 1100px;
+}
+.contact h3{
+    text-align: center;
+    margin: 10px -13px;
+    padding-bottom: -15px;
+    padding-top: 26px;
+    font-family: 'Chilanka', cursive;
+    font-weight: 1100px;
+}
+.foot{
+    padding: 3px 1px;
+}
+.foot p{
+    text-align: center;
+    justify-content: center;
+    margin-top: 12px;
+}

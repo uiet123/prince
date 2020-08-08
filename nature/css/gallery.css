@@ -1,0 +1,8 @@
+.foot{
+    padding: 2px 1px;
+}
+.foot p{
+    text-align: center;
+    justify-content: center;
+    margin-top: 12px;
+}

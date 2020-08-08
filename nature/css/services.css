@@ -1,0 +1,11 @@
+.foot{
+    padding: 2px 1px;
+    position: relative;
+    bottom: -193px;
+    right: 0;
+}
+.foot p{
+    text-align: center;
+    justify-content: center;
+    margin-top: 12px;
+}
